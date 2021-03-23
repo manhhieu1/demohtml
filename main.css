@@ -1,0 +1,25 @@
+.question {
+    width: 60%;
+    display:none ;
+    margin: auto;
+    font-size: 1.4rem;
+}
+h2 {
+    font-weight: 400;
+}
+p {
+    margin-left: 50px;
+}
+.list {
+
+    
+    display: none;
+    justify-content: space-between;
+}
+ .title{
+     display: none;
+ }
+ .table {
+     width: 800px;
+     margin: auto;
+ }
